@@ -40,3 +40,4 @@ words = ["hello", "hey", "goodbye", "guitar", "piano"]
 words_filtered = [word for word in words if len(word) < 6]
 print(words_filtered)
 
+
