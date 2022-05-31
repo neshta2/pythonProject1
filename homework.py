@@ -63,8 +63,6 @@ for i6 in reversed(my_list3):
 
 print(total6)
 
-
-
 word_list = ["apple", "banana", "grape", "some other word", "stop", "hello", "goodbye"]
 
 for e in word_list:
